@@ -1,0 +1,17 @@
+.bio {
+    background-image: linear-gradient(to right, #f7ca45 , #fada73);
+    padding-top: 30px;
+    padding-bottom: 80px;
+    line-height: 1rem;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 25px;
+    padding: 30px 50px;
+    color: rgb(51, 53, 53);
+}
+
+.btn {
+    color: white;
+}

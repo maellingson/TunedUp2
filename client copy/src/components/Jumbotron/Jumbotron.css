@@ -1,0 +1,17 @@
+.TunedIn {
+    background-image: url("https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f9f0fdc18a215ec725f8ca61dc6fcbdf&auto=format&fit=crop&w=700&q=60");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+    color: white;
+    }
+    
+.TunedIn h1 {
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+    
+    
+    
